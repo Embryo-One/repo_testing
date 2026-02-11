@@ -1,3 +1,2 @@
 Initial test file
-Developer change from dev4
-hello
+Developer change
